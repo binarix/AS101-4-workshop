@@ -7,5 +7,6 @@
         "python-bandit",
         "python-safety",
         "python-piprot"
-    ]
+    ],
+    "failOn": "medium"
 }
